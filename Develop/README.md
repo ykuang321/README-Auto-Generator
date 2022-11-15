@@ -1,9 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  # Professional README Generator
+  # Professional README Generator 
   
   ## Project Description
-  Create an application so the user can quickly and automatically create a professional README for new project.
+  Create a command-line application so the user can quickly and automatically create a professional README for new project.
 
   ## Table of Content
   * [Installation](#installation)
@@ -42,5 +42,5 @@
   ```
   
   ## Question
-  * Connect me on [Github:](https://github.com/ykuang321)
-  * Contact me by Email: example.gmail.com
+  * Connect me on [Github](https://github.com/ykuang321)
+  * For any additional questions/information, contact me by Email: **example.gmail.com**
