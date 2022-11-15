@@ -1,9 +1,9 @@
-[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-  # ini
+  # Professional README Generator
   
   ## Project Description
-  ggg
+  Create an application so the user can quickly and automatically create a professional README for new project.
 
   ## Table of Content
   * [Installation](#installation)
@@ -26,13 +26,13 @@
   ```
   
   ## Usage
-  
+  N/A
   
   ## License
-  This project is licensed under the **BSD 3**
+  This project is licensed under the **MIT**
   
   ## Contributing
-  
+  N/A
   
   ## Test
   To run tests, run the following command:
@@ -43,4 +43,4 @@
   
   ## Question
   * Connect me on [Github:](https://github.com/ykuang321)
-  * Contact me by Email: kuang
+  * Contact me by Email: example.gmail.com

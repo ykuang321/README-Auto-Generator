@@ -93,8 +93,8 @@ function generateMarkdown(data) {
   ${backticks}
   
   ## Question
-  * Connect me on [Github:](https://github.com/${data.github})
-  * Contact me by Email: ${data.email}
+  * Connect me on [Github](https://github.com/${data.github})
+  * Contact me by Email: ${data.email} for any additional questions/information.
 `;
 }
 
